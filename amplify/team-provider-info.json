@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rhfurnituree-dev-211326-authRole",
+      "UnauthRoleArn": "arn:aws:iam::545960057204:role/amplify-rhfurnituree-dev-211326-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::545960057204:role/amplify-rhfurnituree-dev-211326-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-rhfurnituree-dev-211326-deployment",
+      "UnauthRoleName": "amplify-rhfurnituree-dev-211326-unauthRole",
+      "StackName": "amplify-rhfurnituree-dev-211326",
+      "StackId": "arn:aws:cloudformation:eu-west-1:545960057204:stack/amplify-rhfurnituree-dev-211326/8822af90-810b-11eb-893a-02c24f000241",
+      "AmplifyAppId": "df6eu0f0e6c8s"
+    },
+    "categories": {
+      "auth": {
+        "rhfurnituree60874094": {}
+      }
+    }
+  }
+}
